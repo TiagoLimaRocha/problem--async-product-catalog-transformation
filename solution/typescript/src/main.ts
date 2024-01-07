@@ -1,5 +1,5 @@
 import { aggregateProducts } from "./util/product";
-import { DataSourceEnum, PromiseSettleStatusEnum } from "./types";
+import { DataSourceEnum } from "./types";
 
 async function main() {
   const sources = [
